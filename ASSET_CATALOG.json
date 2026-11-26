@@ -1,0 +1,559 @@
+{
+  "assets": [
+    {
+      "clean_path": "assets/img/brand/udkam-logo-oval.png",
+      "original_filename": "cropped-Untitled-design-14-e1747972739719.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/brand/udkam-logo-oval-hd.jpg",
+      "original_filename": "IMG-20250509-WA0035.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/brand/udkam-logo-lockup.jpg",
+      "original_filename": "IMG-20250509-WA0033-1.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/hero/udkam-architectural-bay.jpg",
+      "original_filename": "watermarked_img_2388976504828339668.jpg",
+      "source": "gen"
+    },
+    {
+      "clean_path": "assets/img/hero/udkam-pipeline-flow-cutaway.jpg",
+      "original_filename": "watermarked_img_5938585876759441687.jpg",
+      "source": "gen"
+    },
+    {
+      "clean_path": "assets/img/divisions/pipeline/pig-launchers-factory-bay.jpeg",
+      "original_filename": "4c753db5-2eee-4788-bb7b-b62f7550d433.jpeg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/pipeline/pig-launcher-qoc-heavy.jpg",
+      "original_filename": "2329.c022302b.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/pipeline/monolithic-insulating-joints-inspection.png",
+      "original_filename": "Screenshot-2026-02-11-at-11.06.23-PM.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/pipeline/barred-tees-red-coating.png",
+      "original_filename": "Screenshot-2026-02-11-at-10.21.15-PM.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/pipeline/flow-tees-yellow-batch.jpg",
+      "original_filename": "g14.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/oil-gas/filter-separators-yellow-bay.png",
+      "original_filename": "Screenshot-2026-02-11-at-9.32.50-PM-1.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/oil-gas/pressure-vessel-horizontal-site.png",
+      "original_filename": "Screenshot-2026-02-11-at-11.18.02-PM.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/oil-gas/pressure-vessel-dispatch-trailer.png",
+      "original_filename": "Screenshot-2026-02-11-at-9.46.15-PM.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/oil-gas/filter-separator-heat-exchanger.png",
+      "original_filename": "Screenshot-2026-02-12-at-11.36.55-PM.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/oil-gas/cartridge-filters-yellow-pair.png",
+      "original_filename": "Screenshot-2026-02-11-at-11.25.27-PM.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/oil-gas/y-strainers-yellow-batch.jpg",
+      "original_filename": "g3.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/oil-gas/shell-tube-heat-exchanger.jpg",
+      "original_filename": "p1.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/oil-gas/oil-gas-process-vessel.jpg",
+      "original_filename": "Oil-and-Gas.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/cgd/cgd-gas-distribution-station.jpg",
+      "original_filename": "1718861804_img-gas-distribution.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/cgd/cgd-pipeline-manifold.jpg",
+      "original_filename": "CGD-Networks_-Shaping-the-Future-Lessons-from-the-Past-_-Alaya-Legal.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/cgd/psa-nitrogen-generation-skid.png",
+      "original_filename": "Screenshot-2026-02-11-at-11.08.38-PM.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/cgd/cgd-metering-piping-skid.jpg",
+      "original_filename": "1000054429.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/skids/gas-conditioning-skid-orange.png",
+      "original_filename": "Screenshot-2026-02-11-at-11.19.03-PM.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/skids/multi-pump-dosing-skid.jpg",
+      "original_filename": "references.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/skids/prcs-metering-skid-yellow.png",
+      "original_filename": "Screenshot-2026-02-11-at-11.13.26-PM.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/skids/chemical-dosing-skid-ss.png",
+      "original_filename": "Screenshot-2026-02-11-at-11.07.37-PM.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/skids/dosing-skid-multihead-yellow.jpg",
+      "original_filename": "1564590032470.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/water/industrial-water-treatment-plant.jpg",
+      "original_filename": "download-6.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/water/water-storage-vessels-site.jpg",
+      "original_filename": "g10.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/water/filtration-skid-testing.jpg",
+      "original_filename": "g11.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/water/vertical-filter-vessel.png",
+      "original_filename": "Screenshot-2026-02-12-at-11.53.00-PM.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/electrical/flameproof-panel-gail-pata.jpg",
+      "original_filename": "15-scaled.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/electrical/control-panel-ongc-ahmedabad.jpg",
+      "original_filename": "4-scaled.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/electrical/local-control-panel-bhel-rampal.jpg",
+      "original_filename": "11-scaled.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/electrical/packaged-substation-pss.jpg",
+      "original_filename": "7-scaled.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/electrical/control-desk-udkam.jpg",
+      "original_filename": "8-scaled.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/electrical/flameproof-ss-panels-udkam.jpeg",
+      "original_filename": "5d5fdc41-9bbc-4ef4-bed4-1395178a7d49.jpeg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/electrical/switchgear-lt-panel-room.jpg",
+      "original_filename": "download-5.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/divisions/electrical/feeder-pillar-panel.jpg",
+      "original_filename": "20-scaled.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/factory-projects/udkam-exhibition-booth.jpg",
+      "original_filename": "1000054426.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/factory-projects/udkam-engineering-team-site.jpg",
+      "original_filename": "1000054430.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/factory-projects/heavy-vessel-dispatch-1.jpg",
+      "original_filename": "news1.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/factory-projects/heavy-vessel-dispatch-2.jpg",
+      "original_filename": "news2.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/factory-projects/heavy-vessel-dispatch-3.jpg",
+      "original_filename": "news3.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/factory-projects/multi-vessel-fabrication-bay.png",
+      "original_filename": "Screenshot-2026-02-11-at-10.00.32-PM.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/certificates/iso-9001-2015.png",
+      "original_filename": "Screenshot-2025-12-03-121743.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/certificates/iso-14001-2015.png",
+      "original_filename": "Screenshot-2025-12-03-121833.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/certificates/iso-45001-2018.png",
+      "original_filename": "Screenshot-2025-12-03-121906.png",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/certificates/eil-enlistment-letter.jpg",
+      "original_filename": "WhatsApp-Image-2025-12-03-at-13.20.50_cd11eaae.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/certificates/ongc-vendor-registration.jpg",
+      "original_filename": "WhatsApp-Image-2025-12-03-at-13.40.05_5c709fd9.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/certificates/bhel-vendor-registration-p1.jpg",
+      "original_filename": "WhatsApp-Image-2025-12-03-at-13.33.17_91920120.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/certificates/bhel-vendor-registration-p2.jpg",
+      "original_filename": "WhatsApp-Image-2025-12-03-at-13.33.40_1d4aced5.jpg",
+      "source": "raw"
+    },
+    {
+      "clean_path": "assets/img/certificates/bhel-pem-approval.jpg",
+      "original_filename": "WhatsApp-Image-2025-12-03-at-13.27.06_4ff672ea.jpg",
+      "source": "raw"
+    }
+  ],
+  "clients": [
+    {
+      "name": "ONGC",
+      "region": "india",
+      "clean_path": "assets/img/clients/ongc.png",
+      "original_filename": "ONGC_Logo.svg.png"
+    },
+    {
+      "name": "GAIL (India) Ltd.",
+      "region": "india",
+      "clean_path": "assets/img/clients/gail.png",
+      "original_filename": "21.png"
+    },
+    {
+      "name": "IndianOil (IOCL)",
+      "region": "india",
+      "clean_path": "assets/img/clients/iocl.png",
+      "original_filename": "22.png"
+    },
+    {
+      "name": "BHEL",
+      "region": "india",
+      "clean_path": "assets/img/clients/bhel.png",
+      "original_filename": "12.png"
+    },
+    {
+      "name": "Bharat Petroleum (BPCL)",
+      "region": "india",
+      "clean_path": "assets/img/clients/bpcl.png",
+      "original_filename": "24.png"
+    },
+    {
+      "name": "Hindustan Petroleum (HPCL)",
+      "region": "india",
+      "clean_path": "assets/img/clients/hpcl.png",
+      "original_filename": "23.png"
+    },
+    {
+      "name": "Engineers India Ltd. (EIL)",
+      "region": "india",
+      "clean_path": "assets/img/clients/eil.png",
+      "original_filename": "25.png"
+    },
+    {
+      "name": "NTPC",
+      "region": "india",
+      "clean_path": "assets/img/clients/ntpc.png",
+      "original_filename": "13-1.png"
+    },
+    {
+      "name": "NSPCL",
+      "region": "india",
+      "clean_path": "assets/img/clients/nspcl.png",
+      "original_filename": "14.png"
+    },
+    {
+      "name": "NPCIL",
+      "region": "india",
+      "clean_path": "assets/img/clients/npcil.png",
+      "original_filename": "28.png"
+    },
+    {
+      "name": "MECON",
+      "region": "india",
+      "clean_path": "assets/img/clients/mecon.png",
+      "original_filename": "20.png"
+    },
+    {
+      "name": "Oil India Limited",
+      "region": "india",
+      "clean_path": "assets/img/clients/oil-india.png",
+      "original_filename": "27.png"
+    },
+    {
+      "name": "PDIL",
+      "region": "india",
+      "clean_path": "assets/img/clients/pdil.png",
+      "original_filename": "26.png"
+    },
+    {
+      "name": "Indraprastha Gas (IGL)",
+      "region": "india",
+      "clean_path": "assets/img/clients/igl.png",
+      "original_filename": "30.png"
+    },
+    {
+      "name": "Sabarmati Gas",
+      "region": "india",
+      "clean_path": "assets/img/clients/sabarmati-gas.png",
+      "original_filename": "29.png"
+    },
+    {
+      "name": "Assam Gas Company",
+      "region": "india",
+      "clean_path": "assets/img/clients/assam-gas.png",
+      "original_filename": "4.png"
+    },
+    {
+      "name": "GSECL",
+      "region": "india",
+      "clean_path": "assets/img/clients/gsecl.png",
+      "original_filename": "31.png"
+    },
+    {
+      "name": "HOEC",
+      "region": "india",
+      "clean_path": "assets/img/clients/hoec.png",
+      "original_filename": "1-2.png"
+    },
+    {
+      "name": "Larsen & Toubro (L&T)",
+      "region": "india",
+      "clean_path": "assets/img/clients/larsen-toubro.png",
+      "original_filename": "16.png"
+    },
+    {
+      "name": "Tata Projects",
+      "region": "india",
+      "clean_path": "assets/img/clients/tata-projects.png",
+      "original_filename": "15.png"
+    },
+    {
+      "name": "Reliance Industries",
+      "region": "india",
+      "clean_path": "assets/img/clients/reliance.png",
+      "original_filename": "ud.png"
+    },
+    {
+      "name": "MEIL",
+      "region": "india",
+      "clean_path": "assets/img/clients/meil.png",
+      "original_filename": "17.png"
+    },
+    {
+      "name": "Nayara Energy",
+      "region": "india",
+      "clean_path": "assets/img/clients/nayara-energy.png",
+      "original_filename": "9.png"
+    },
+    {
+      "name": "Vedanta / Cairn",
+      "region": "india",
+      "clean_path": "assets/img/clients/vedanta-cairn.png",
+      "original_filename": "ud1k.png"
+    },
+    {
+      "name": "Praj Industries",
+      "region": "india",
+      "clean_path": "assets/img/clients/praj.png",
+      "original_filename": "10.png"
+    },
+    {
+      "name": "Wipro",
+      "region": "india",
+      "clean_path": "assets/img/clients/wipro.png",
+      "original_filename": "19.png"
+    },
+    {
+      "name": "QatarEnergy",
+      "region": "global",
+      "clean_path": "assets/img/clients/qatarenergy.jpg",
+      "original_filename": "ud17.jpg"
+    },
+    {
+      "name": "ADNOC",
+      "region": "global",
+      "clean_path": "assets/img/clients/adnoc.webp",
+      "original_filename": "ud14.webp"
+    },
+    {
+      "name": "SABIC",
+      "region": "global",
+      "clean_path": "assets/img/clients/sabic.jpg",
+      "original_filename": "ud16.jpg"
+    },
+    {
+      "name": "Petrofac",
+      "region": "global",
+      "clean_path": "assets/img/clients/petrofac.jpg",
+      "original_filename": "ud18.jpg"
+    },
+    {
+      "name": "Takreer",
+      "region": "global",
+      "clean_path": "assets/img/clients/takreer.jpg",
+      "original_filename": "ud3.jpg"
+    },
+    {
+      "name": "Petroleum Development Oman",
+      "region": "global",
+      "clean_path": "assets/img/clients/pdo-oman.jpg",
+      "original_filename": "ud5.jpg"
+    },
+    {
+      "name": "Saudi Electricity Company",
+      "region": "global",
+      "clean_path": "assets/img/clients/saudi-electricity.png",
+      "original_filename": "ud4.png"
+    },
+    {
+      "name": "Kuwait Oil Company",
+      "region": "global",
+      "clean_path": "assets/img/clients/kuwait-oil.jpeg",
+      "original_filename": "ud19.jpeg"
+    },
+    {
+      "name": "Samsung Engineering",
+      "region": "global",
+      "clean_path": "assets/img/clients/samsung-engineering.jpg",
+      "original_filename": "ud13.jpg"
+    },
+    {
+      "name": "McDermott",
+      "region": "global",
+      "clean_path": "assets/img/clients/mcdermott.jpg",
+      "original_filename": "ud6.jpg"
+    },
+    {
+      "name": "WorleyParsons",
+      "region": "global",
+      "clean_path": "assets/img/clients/worleyparsons.png",
+      "original_filename": "6.png"
+    },
+    {
+      "name": "Emerson Process Management",
+      "region": "global",
+      "clean_path": "assets/img/clients/emerson.png",
+      "original_filename": "18.png"
+    },
+    {
+      "name": "Tractebel ENGIE",
+      "region": "global",
+      "clean_path": "assets/img/clients/tractebel-engie.png",
+      "original_filename": "8.png"
+    },
+    {
+      "name": "Golar LNG",
+      "region": "global",
+      "clean_path": "assets/img/clients/golar-lng.png",
+      "original_filename": "3.png"
+    },
+    {
+      "name": "CECO Environmental",
+      "region": "global",
+      "clean_path": "assets/img/clients/ceco.png",
+      "original_filename": "2-2.png"
+    },
+    {
+      "name": "Dangote Refinery",
+      "region": "global",
+      "clean_path": "assets/img/clients/dangote.png",
+      "original_filename": "ud10.png"
+    },
+    {
+      "name": "NPCC",
+      "region": "global",
+      "clean_path": "assets/img/clients/npcc.png",
+      "original_filename": "ud15.png"
+    },
+    {
+      "name": "Sonatrach / ExxonMobil",
+      "region": "global",
+      "clean_path": "assets/img/clients/sonatrach-exxonmobil.png",
+      "original_filename": "ud11.png"
+    },
+    {
+      "name": "LUKOIL",
+      "region": "global",
+      "clean_path": "assets/img/clients/lukoil.png",
+      "original_filename": "ud9.png"
+    },
+    {
+      "name": "Hyundai E&C",
+      "region": "global",
+      "clean_path": "assets/img/clients/hyundai-ec.jpeg",
+      "original_filename": "ud12.jpeg"
+    },
+    {
+      "name": "KAR Group",
+      "region": "global",
+      "clean_path": "assets/img/clients/kar-group.jpg",
+      "original_filename": "ud8.jpg"
+    },
+    {
+      "name": "Ministry of Electricity Iraq",
+      "region": "global",
+      "clean_path": "assets/img/clients/iraq-electricity.png",
+      "original_filename": "ud7.png"
+    }
+  ]
+}

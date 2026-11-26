@@ -1,0 +1,83 @@
+/* UDKAM Minimal Motion & Scroll Helpers (All layout, color & spacing handled by Tailwind CSS) */
+
+html {
+  scroll-behavior: auto;
+}
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis:not(.lenis-autoToggle).lenis-stopped {
+  overflow: clip;
+}
+.lenis [data-lenis-prevent],
+.lenis [data-lenis-prevent-wheel],
+.lenis [data-lenis-prevent-touch] {
+  overscroll-behavior: contain;
+}
+
+/* Unified full-width sticky header state when scrolled */
+header.site-header.is-scrolled .nav-capsule:not(.main-nav.flex) {
+  background-color: transparent !important;
+  border-color: transparent !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+}
+@media (min-width: 768px) {
+  header.site-header.is-scrolled .nav-capsule {
+    background-color: transparent !important;
+    border-color: transparent !important;
+    box-shadow: none !important;
+    backdrop-filter: none !important;
+  }
+}
+
+/* Clip-path & masked reveal utilities */
+.line-mask {
+  overflow: hidden;
+  padding-bottom: 0.08em;
+  margin-bottom: -0.08em;
+}
+
+/* Partner infinite marquee animation helper */
+@keyframes udkam-marquee {
+  0% { transform: translate3d(0, 0, 0); }
+  100% { transform: translate3d(-50%, 0, 0); }
+}
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: udkam-marquee 30s linear infinite;
+  will-change: transform;
+}
+.marquee-viewport:hover .marquee-track,
+.marquee-viewport:focus-within .marquee-track {
+  animation-play-state: paused;
+}
+
+/* Slide-over RFQ drawer & Lightbox modal open states */
+.drawer-backdrop.open {
+  opacity: 1;
+  pointer-events: auto;
+}
+.rfq-drawer.open {
+  transform: translateX(0);
+}
+.lightbox.open {
+  display: flex;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track {
+    animation: none !important;
+    transform: none !important;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .marquee-clone {
+    display: none !important;
+  }
+}
